@@ -17,9 +17,9 @@ You have a limited number of attempts to guess the number correctly.
 ## Computer Guess Mode
 Enter a custom range, then think of a number within this range.
 The computer will try to guess your number, and you provide feedback on whether the guess is too high, too low, or correct.
-### Features
+# Features
 Three different game modes for variety.
 Feedback on guesses to help players adjust their subsequent guesses.
 Limits on the number of attempts based on the range size.
-### How to Run
+# How to Run
 To play the game, simply run the main() function from your Python environment. The game will guide you through the rest.
